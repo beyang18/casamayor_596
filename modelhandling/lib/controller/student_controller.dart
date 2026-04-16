@@ -27,6 +27,7 @@ class StudentController {
   }
 
   //  FIXED
+  // comment
   double getClassAverage(List<Student> students) {
     if (students.isEmpty) return 0;
 
